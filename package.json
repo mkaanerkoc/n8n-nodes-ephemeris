@@ -1,0 +1,15 @@
+{
+  "name": "n8n-nodes-ephemeris",
+  "version": "1.0.0",
+  "description": "An n8n node to fetch planetary positions using the ephemeris package.",
+  "author": "Mehmet Kaan Erkoc",
+  "license": "MIT",
+  "main": "EphemerisNode.js",
+  "dependencies": {
+    "ephemeris": "^1.0.0"
+  },
+  "devDependencies": {
+    "n8n-core": "^1.0.0",
+    "n8n-workflow": "^1.0.0"
+  }
+}
